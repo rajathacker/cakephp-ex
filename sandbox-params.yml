@@ -1,0 +1,4 @@
+NAME: "cakephp"
+BUILD_NAMESPACE: "cakephp-sbx"
+DATABASE_NAMESPACE: "cakephp-sbx"
+FRONTEND_NAMESPACE: "cakephp-sbx"
